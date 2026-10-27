@@ -5,7 +5,7 @@
 </div>
 
 > [!NOTE]
-> The original `github-profile-trophy` project is maintained by
+> The original [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) project is maintained by
 > [ryo-ma](https://github.com/ryo-ma). This deployment, maintained by
 > [jagratadeb](https://github.com/jagratadeb), is a volunteer server provided
 > only to help balance traffic. It is not a separate project or replacement
