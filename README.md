@@ -3,6 +3,18 @@
   <h2 align="center">GitHub Profile Trophy</h2>
   <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your README</p>
 </div>
+
+> [!NOTE]
+> The original `github-profile-trophy` project is maintained by
+> [ryo-ma](https://github.com/ryo-ma). This deployment, maintained by
+> [jagratadeb](https://github.com/jagratadeb), is a volunteer server provided
+> only to help balance traffic. It is not a separate project or replacement
+> for the original repository.
+>
+> To generate your trophies using this server, use:
+>
+> `https://github-trophy-jagratadeb.vercel.app/?username=YOUR_GITHUB_USERNAME`
+
 <div align="center">
 
 [![stargazers](https://img.shields.io/github/stars/ryo-ma/github-profile-trophy)](https://github.com/ryo-ma/github-profile-trophy/stargazers)
