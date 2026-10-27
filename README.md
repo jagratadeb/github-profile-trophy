@@ -13,7 +13,10 @@
 >
 > To generate your trophies using this server, use:
 >
-> `https://github-trophy-jagratadeb.vercel.app/?username=YOUR_GITHUB_USERNAME`
+> ```
+> https://github-trophy-jagratadeb.vercel.app/?username=YOUR_GITHUB_USERNAME
+> ```
+> or, visit [https://github-trophy-jagratadeb.vercel.app](https://github-trophy-jagratadeb.vercel.app)
 
 <div align="center">
 
